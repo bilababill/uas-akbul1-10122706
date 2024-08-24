@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Magrib Mengaji</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="alquran_fragment_text">Halaman Alquran digital (API)</string>
+    <string name="home_fragment_text">Home</string>
+    <string name="belajar_fragment_text">Halaman Konten Edukasi (API)</string>
+    <string name="komunitas_fragment_text">Halaman Daftar Komunitas Magrib Mengaji</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
